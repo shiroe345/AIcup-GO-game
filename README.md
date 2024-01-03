@@ -15,3 +15,5 @@ There are 3 AI models required to train in this contest, namely Dan, Kyu, and Pl
 To generate the baseline models, you can follow tutorial notebooks.
 
 For submission, you can follow **Create Public Upload CSV.ipynb** notebook.
+# Note
+Because the training data and test data too large, we only provide tutorial training and test data
