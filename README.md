@@ -10,5 +10,6 @@ There are 3 AI models required to train in this contest, namely Dan, Kyu, and Pl
   - **public_submission_template**: Predictions for public testing datasets
 
 For submission, you can follow **Create Public Upload CSV.ipynb** notebook.
+
 # Note
 Because the training data and test data too large, we only provide tutorial training and test data.
