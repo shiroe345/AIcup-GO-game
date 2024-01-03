@@ -1,6 +1,3 @@
-# AIcupTutorial
-NDHU AI Lab - AICup Tutorial
-
 # Introduction
 There are 3 AI models required to train in this contest, namely Dan, Kyu, and Play Style models. The baseline models are trained by using TensorFlow 2.9 and shared in this repository. 
 
